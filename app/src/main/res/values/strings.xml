@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouToPi</string>
+    <string name="view_list_button_text">View RPi list</string>
+    <string name="search_button_text">Search on Youtube</string>
+</resources>
